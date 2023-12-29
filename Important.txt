@@ -1,0 +1,15 @@
+==========================================
+1- User name is : A4M
+	and password is : 0000
+==========================================
+2- ID Starts from 100000.
+==========================================
+3 - The project consists of several files.
+	1- main
+	2- person.cpp and person.h
+	3- worker.cpp and worker.h
+	4- doctor.cpp and doctor.h
+	5- nurse.cpp and nurse.h
+	6- staff.cpp and staff.h
+	7- patient.cpp and patient.h
+==========================================

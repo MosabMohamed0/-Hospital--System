@@ -1,0 +1,19 @@
+doctor
+
+	dintest
+	Dermatologist
+
+nurse
+
+	Geriatric
+	Orthopedic
+
+staff
+
+	security
+	cleaner
+
+patient
+
+	Asthma
+	Malaria

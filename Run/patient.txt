@@ -1,0 +1,11 @@
+100000 Samar Mohammed 23 female flu 450 
+100001 Abeer Ahmed 45 female Malaria 1000
+100002 Mahmoud Ahmed 34 male Cholera 430
+100003 Mostafa Tarek 32 male Pneumonia 600
+100004 Abdelrahman Mohamed 46 male Hemophilia 3400
+100005 Ahmed Mohammed 45 male Asthma 460
+100006 Fatema Mohamed 29 female Pneumonia 503
+100007 Yara Mohamed 34 female Tuberculosis 560 
+100008 Mohamed Kamel 46 male Pneumonia 230 
+100009 Omar Ahmed 24 male nothing 0 
+100010 Kamel Mohamed 28 male Malaria 349 

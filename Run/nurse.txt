@@ -1,0 +1,11 @@
+100000 Samar Mohammed 23 female Emergency 1033 
+100001 Abeer Ahmed 45 female Pediatric 1296
+100002 Mahmoud Ahmed 34 male Geriatric 4000
+100003 Mostafa Tarek 32 male Orthopedic 6000
+100004 Abdelrahman Mohamed 46 male Pediatric 34000
+100005 Ahmed Mohammed 45 male Neonatal 45660
+100006 Fatema Mohamed 29 female Dentist 50030
+100007 Menna Ahmed 65 female Emergency 23440 
+100008 Mostafa Tarek 34 male Geriatric 10035 
+100009 Gamal Ahmed 27 male Geriatric 2300 
+100010 Jamal Sayed 29 male Geriatric 10000 
